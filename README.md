@@ -5,9 +5,9 @@ The Application involves development of app developed with React Native.
 # Usage
 The code can be used for the following operations:
 
-    1. Barcode scanner: code is for asking permission for camera and scanning barcode.
+Barcode scanner: code is for asking permission for camera and scanning barcode.
 
-    2. Language: code is to change language in app.
+   
     
 # Procedure
 The following is the procedure followed by the code:
